@@ -1,0 +1,32 @@
+_repo: Caroline-the-Illustrious-vol-2-of-2-b-Queen-Consort-of-George-II-and-sometime-Queen-Regent-a-__70914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkins, W. H. (William Henry)
+    alias: Wilkins, William Henry
+    birthdate: 1860
+    deathdate: 1905
+    gutenberg_agent_id: '2026'
+    url: http://www.gutenberg.org/2009/agents/2026
+    wikipedia: https://en.wikipedia.org/wiki/William_Henry_Wilkins
+description: ''
+gutenberg_issued: '2023-06-05'
+identifiers:
+  gutenberg: '70914'
+language: en
+pgterms:marc904: https://archive.org/details/carolineillustri01wilkuofthttps://archive.org/details/carolineillustri02wilkuoft
+pgterms:marc905: 20200617021352wilkins
+pgterms:marc906: '1901'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aUnited Kingdom :$bLongmans, Green, and Co., $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Caroline the Illustrious, vol. 2 (of 2) : $b Queen-Consort of George II. and
+  sometime Queen-Regent; a study of her life and time'
+url: http://www.gutenberg.org/ebooks/70914
