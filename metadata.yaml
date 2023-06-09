@@ -1,5 +1,8 @@
 _repo: Caroline-the-Illustrious-vol-2-of-2-b-Queen-Consort-of-George-II-and-sometime-Queen-Regent-a-__70914
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70914-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilkins, W. H. (William Henry)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2026
     wikipedia: https://en.wikipedia.org/wiki/William_Henry_Wilkins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70914#Caroline-the-Illustrious-vol-2-of-2-b-Queen-Consort-of-George-II-and-sometime-Queen-Regent-a-_
 gutenberg_issued: '2023-06-05'
 identifiers:
   gutenberg: '70914'
